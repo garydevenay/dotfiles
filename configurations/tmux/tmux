@@ -18,4 +18,4 @@ source-file $HOME/.dotfiles/lib/configurations/tmux/display
 source-file $HOME/.dotfiles/lib/configurations/tmux/linux
 source-file $HOME/.dotfiles/lib/configurations/tmux/navigation
 source-file $HOME/.dotfiles/lib/configurations/tmux/panes
-source-file $HOME/.dotfiles/lib/configurations/tmux/theme
+#source-file $HOME/.dotfiles/lib/configurations/tmux/theme
